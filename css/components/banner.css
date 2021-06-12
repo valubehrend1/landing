@@ -2,7 +2,7 @@
     background-image: url('../../images/background.png');
     background-size: cover;
     background-position: center;
-    padding: 200px 0;
+    padding: 90px 0;
 }
 
 .banner h1 {
@@ -23,10 +23,7 @@
     border-radius: 50px;
     color: white;
 }
+
 h2 {
     text-align: center;
-}
-
-.card img {
-    width: 100px;
 }
