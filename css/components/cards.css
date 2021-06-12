@@ -11,7 +11,7 @@
     box-shadow: 0 0 5px rgb(230 230 230);
     text-align: center;
     padding: 20px;
-    border: 1px solid rgb(230, 230, 230);
+    border: 1px solid rgb(230,230,230);
     font-size: 16px;
 }
 
@@ -21,24 +21,26 @@
 
 @media (max-width: 960px) {
     .card {
-        width: 170px;
+      width: 170px;
     }
+
     .card img {
         height: 75px;
-    }
-}
-
-@media (max-width: 760px) {
+      }
+  }
+  
+  @media (max-width: 760px) {
     .card {
-        margin-bottom: 20px;
+      margin-bottom: 20px;
     }
-}
+  }
 
-@media (max-width: 520px) {
+  @media (max-width: 520px) {
     .card {
-        width: 170px;
+      width: 170px;
     }
+
     .card img {
         height: 75px;
-    }
-}
+      }
+  }
